@@ -3,17 +3,17 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+title: Francis Anyuru's resume
+description-meta: 'Francis Anyuru's resume'
 keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
+  - 'javascript' -'java' -'python' - 'c++' -'cassandra'
+  - 'postgresql' -'mysql' -'neo4j' -'mongodb' 
+  - 'linux' -'windows'
 author:
-- I am the author
-subject: 'Subject'
+- Francis Anyuru
+subject: 'Resume'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [https://github.com/anyuruf] . [anyuruf@gmail.com] . [ +256 746409431 ]
 
 ### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
 
