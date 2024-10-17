@@ -6,9 +6,17 @@ margin-bottom: 2cm
 title: Francis Anyuru's resume
 description-meta: 'Francis Anyuru's resume'
 keywords:
-  - 'javascript' -'java' -'python' - 'c++' -'cassandra'
-  - 'postgresql' -'mysql' -'neo4j' -'mongodb' 
-  - 'linux' -'windows'
+  - 'javascript'
+  -  'java'
+  - 'python'
+  -  'c++'
+  -  'cassandra'
+  - 'postgresql'
+  - 'mysql'
+  - 'neo4j'
+  - 'mongodb' 
+  - 'linux'
+  - 'windows'
 author:
 - Francis Anyuru
 subject: 'Resume'
